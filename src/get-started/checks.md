@@ -28,6 +28,8 @@ List of content author errors and warnings.
 
 1. **Headings that are too long.** Flags headings that are longer than 160 characters. Headings should be brief (no longer than a sentence), informative, and unique. Ensure semantic headings are used to organize content and convey page structure.
 
+1. **Headings that only contain unpronounceable characters.** For examples, headings that only contain symbols or private unicode characters and icon fonts.
+
 1. **Page does not start with Heading 1 or Heading 2.** Flags the first heading on the page if it is not a Heading 1 or Heading 2. The first heading on a page should usually be a Heading 1 or a Heading 2. A Heading 1 should be the start of the main content section, and is the main heading that describes the overall purpose of the page.
 
 1. **Missing Heading 1.** Heading 1 should be the start of the main content area, and is the main heading that describes the overall purpose of the page.
